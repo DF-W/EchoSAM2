@@ -57,7 +57,7 @@ a single NVIDIA GeForce RTX 3090 with 24 GB of Memory.
 Please cite our paper if you find the work useful: 
 
     @ARTICLE{11123471,
-      author={Wang, Dongfang and Zhou, Tao and Zhang, Yizhe and Gao, Shangbing and Yang, Jian},
+      author={Wang, Dongfang and Zhou, Tao and Gao, Shangbing and Yang, Jian},
       journal={IEEE Transactions on Biomedical Engineering}, 
       title={Echo Flow-Induced Temporal Correlation Learning for Ultrasound Video Object Segmentation}, 
       year={2025},
